@@ -29,4 +29,5 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+## Snake
+![snake gif](https://github.com/unn0wnn/unn0wnn/blob/output/github-contribution-grid-snake.gif)
