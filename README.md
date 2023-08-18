@@ -8,6 +8,18 @@
 You can click the Preview link to take a look at your changes.
 --->
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  
+![snake gif](https://github.com/unn0wnn/unn0wnn/blob/output/github-contribution-grid-snake.gif)
+
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
